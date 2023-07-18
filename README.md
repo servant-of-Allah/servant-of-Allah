@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @servant-of-Allah
+- 👋 Hi, I'm Abdullah
 
 - 👀 I'm interested in web development, security, and exploring the world of 3D.
 
